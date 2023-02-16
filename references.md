@@ -1,3 +1,4 @@
-# References
 
-* octocat 1 😈
+Diese Datei
+enthält Text
+der einen Conflict verursachen soll.
